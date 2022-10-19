@@ -1,0 +1,64 @@
+.topcontainer{
+    background-color: #CDF0EA;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+.middlecontainer{
+    background-color: #D2DAFF;
+    padding-top: 50px;
+}
+.bottomcontainer{
+    background-color: #EEF1FF;
+    padding-top: 100px;
+}
+body{
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+p{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 0;
+}
+h2{
+    text-decoration: underline;
+    font-family: 'Merriweather', serif;
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+
+.cricket{
+    width: 300px;
+    height: 300px;
+}
+
+.code{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.pro{
+    text-decoration: underline;
+}
+.profile{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.profile-pic{
+    margin-top: 20px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
